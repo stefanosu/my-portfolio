@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Stefanos',
-  subtitle: "I\'m a Software engineer", 
+  subtitle: 'I\'m a Software engineer', 
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: `https://docs.google.com/document/d/1hk2jZiVqbQ29nvbFlAkKHVOZjU_dY2soz4DzNXzytKI/edit?usp=sharing`, // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
