@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Stefanos',
-  subtitle: 'I\'m a Software engineer', 
+  subtitle: `I\'m a Software engineer`, 
   cta: '',
 };
 
@@ -29,12 +29,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
+    img: 'trivia.png',
+    title: 'Trivia App',
+    info: `This project is a web app trivia quiz game. Where a player answers 10 multiple choice questions in a round of trivia. At the end of the game a player can see their score.`,
+    info2: `Technologies used to build this project were TypeScript, React Hooks and styled components.`,
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/stefanosu/trivia-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
