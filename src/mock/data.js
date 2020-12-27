@@ -18,9 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: `Policy junky turned developer with a passion for building technological tools for social and economic empowerment.` ,
+  paragraphTwo: `Found my passion for programming while studying Economics and conducting policy research during my college education and realized that most of the interesting and dynamic solutions to complex problems were produced by technologists, not economists.`, 
+  paragraphThree: `I'm seeking opportunities to grow within a team building production level scalable code that makes an impact.`,
+
   resume: `https://docs.google.com/document/d/1hk2jZiVqbQ29nvbFlAkKHVOZjU_dY2soz4DzNXzytKI/edit?usp=sharing`, // if no resume, the button will not show up
 };
 
