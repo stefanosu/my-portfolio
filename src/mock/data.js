@@ -69,22 +69,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/StefanosUgbit',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'medium',
+      url: 'https://medium.com/@stefanosu422',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/stefanosugbit/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/stefanosu',
     },
   ],
 };
